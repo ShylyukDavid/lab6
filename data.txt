@@ -1,0 +1,40 @@
+320 4 5
+Depart0 200 2 2 
+30 5 20 3 20 2 10 8 20 4 30 5
+35 4 40 2 20 4 10 3 30 5
+Depart1 100 4 2 
+50 7 5 1 10 2 5 4 5 7
+45 8 4 3 1 1 10 4 10 3
+60 5 7 3 7 2 6 6 5 9
+35 10 10 2 10 5 5 6
+Depart2 150 3 2
+25 4 20 2 10 3 5 8 10 1 5 4
+23 5 10 1 10 2 10 3 10 4 10 5
+18 7 20 1 20 4 10 6
+Depart3 50 1 1
+40 5 10 4 10 5 20 3 10 7
+gears
+steel cast_iron
+3 4
+0
+6
+wheel
+carbon_steel boiling_steel martin_steel gears
+10 20 10 10
+3
+5
+engine
+cast_iron aluminium magnium cilinder shatun gears
+5 4 10 3 10 15
+3
+8
+shatun
+steel40 steel40x steelxh
+10 10 10
+1
+7
+cilinder
+hrom nikosil aluminium
+5 10 15
+2
+6
